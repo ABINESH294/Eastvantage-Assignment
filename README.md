@@ -4,7 +4,7 @@ This is a simple React application that fetches and displays a random user’s f
 It also caches the data in **localStorage** and allows refreshing to fetch a new user **without page reload**.
 
 ---
-## 🚀 [Application Link] (https://ABINESH294.github.io/eastvantage-task)
+## 🚀 [Application Link] (https://ABINESH294.github.io/eastvantage-assignment)
 
 
 ## 🚀 Features
@@ -30,12 +30,12 @@ It also caches the data in **localStorage** and allows refreshing to fetch a new
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ABINESH294/eastvantage-task.git
+git clone https://github.com/ABINESH294/eastvantage-assignment.git
 ```
 
 ### 2. Navigate into the project folder
 ```bash
-cd eastvantage-task
+cd eastvantage-assignment
 ```
 
 ### 3. Install dependencies
